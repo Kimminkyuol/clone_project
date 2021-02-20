@@ -1,0 +1,35 @@
+* {
+  font-family: 'Jua', sans-serif;
+}
+
+section {
+  width : 70%;
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+.bar {
+  height: 50px;
+  width : 5px;
+  background-color: #BBBBBB;
+  border : 5px solid black;
+  border-radius: 5px;
+  margin-top: 5px;
+  transition : 2s;
+}
+
+.bar1 {
+  background-color: red;
+}
+
+.bar2 {
+  background-color: orange;
+}
+
+.bar3 {
+  background-color: green;
+}
+
+.bar4 {
+  background-color: lightblue;
+}
